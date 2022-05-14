@@ -1,2 +1,2 @@
 # Calculator-Java
-Project calculatori n java
+Project calculator in java
