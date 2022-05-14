@@ -1,4 +1,4 @@
 # Calculator-Java
 Project calculator in java
 
-![image](https://user-images.githubusercontent.com/105025248/168428594-81c7617a-0c9b-4d68-8a01-2bbd6fbc048e.png)
+![image](https://user-images.githubusercontent.com/105025248/168428853-7a3716b4-8620-43a1-8a1f-a19bdb4ffa35.png)
